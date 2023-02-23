@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "wp4626258-4k-pc-wallpapers.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "wp4626258-4k-pc-wallpapers-1.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "wp4626258-4k-pc-wallpapers-2.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
